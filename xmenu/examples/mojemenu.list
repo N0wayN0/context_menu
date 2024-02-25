@@ -1,0 +1,39 @@
+Accessories
+	IMG:../icons/office.png   0install (Installer)	0desktop
+	IMG:../icons/web.png	Web Browser	firefox
+	Files	nautilus --new-window 
+	nitrogen (Wallpaper Setter)	nitrogen
+	Rxvt Color Unicode Terminal	urxvt
+	IMG:/usr/share/pixmaps/gvim.svg	Vim (Text Editor)	xterm -e vim 
+Development
+	Icon Browser	yad-icon-browser
+Graphics
+	IMG:/usr/share/pixmaps/display-im6.q16.xpm	ImageMagick (color depth=q16)	/usr/bin/display-im6.q16 -nostdin 
+	xpdf (PDF viewer)	xpdf 
+Internet
+	IMG:/usr/share/pixmaps/chromium.png	Chromium Web Browser (Web Browser)	/usr/bin/chromium 
+	Firefox ESR (Web Browser)	/usr/lib/firefox-esr/firefox-esr 
+	IMG:/usr/share/pixmaps/transmission.xpm	Transmission (BitTorrent Client)	transmission-gtk 
+Multimedia
+	IMG:/usr/share/pixmaps/alsamixergui.xpm	Alsamixergui	/usr/bin/alsamixergui
+	Alsaplayer	alsaplayer 
+	mpv Media Player (Multimedia player)	mpv --player-operation-mode=pseudo-gui -- 
+Office
+	Zathura	zathura 
+Others
+	IMG:/usr/share/pixmaps/sxiv.xpm	SXIView directory	xterm -e sx 
+Settings
+	Customize Look and Feel (Customize Look and Feel)	lxappearance
+	Desktop Preferences	pcmanfm --desktop-pref
+System
+	File Manager PCManFM (File Manager)	pcmanfm 
+	IMG:/usr/share/pixmaps/htop.png	Htop (Process Viewer)	xterm -e htop
+	lf	xterm -e lf
+	MATE Terminal (Terminal)	mate-terminal
+	IMG:/usr/share/hardinfo/pixmaps/logo.png	System Profiler and Benchmark	/usr/bin/hardinfo
+	ST	st
+	UXTerm	uxterm
+	XTerm	xterm
+
+Shutdown		poweroff
+Reboot			reboot

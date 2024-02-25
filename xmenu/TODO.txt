@@ -1,0 +1,6 @@
+init git
+zrobic instalke
+    Xresources zainstalowac do .config
+    ikony do .local
+    wraper i xmenu do bin
+    i moze plik z menu oddzielnie

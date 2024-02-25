@@ -1,0 +1,15 @@
+
+Sourced
+https://github.com/phillbush/xclickroot.git
+https://github.com/phillbush/xmenu.git
+
+this only generate text file for xmenu
+https://github.com/xlucn/xdg-xmenu.git
+
+added this
+apt install libinih-dev
+
+set colors and fonts dor xmenu
+xrdb Xresources
+
+xclickroot -r xmenu
