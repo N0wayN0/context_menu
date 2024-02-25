@@ -26,7 +26,8 @@ One of the options -l, -m, -r, -1, -2, -3, -4, or -5 which indicate mouse button
 
 In source code will be specify wchich mouse button do what:
 
-```int main(int argc, char *argv[])
+```
+int main(int argc, char *argv[])
 {
     char *btn1[] = {"pcmanfm",NULL,NULL};
     char *btn2[] = {"xmenu2.sh",NULL,NULL};
