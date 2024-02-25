@@ -5,12 +5,12 @@ This is source
 Inspired by
 [xclickroot](https://github.com/phillbush/xclickroot)
 
-## Original vesdion
+## Original vesion
 
 xclickroot runs a command every time a given mouse button is pressed on
 the root window.
 
-§ Running xclickroot
+## Running xclickroot
 
 xclickroot gets as argument an command and its arguments and run this
 command every time the right mouse button is pressed on the root window.
@@ -37,11 +37,11 @@ buttons can be figured out using
 
 `xev`
 
-§ Installation
+## Installation
 	
     make clean install
 
 Then run it in background or in .xinitrc
 
-`xclickroot&`
+`xclickroot &`
 
